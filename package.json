@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "belly-button",
     "pretest": "npm run lint",
-    "test": "lab -c"
+    "test": "lab -a code -t 100"
   },
   "repository": {
     "type": "git",
