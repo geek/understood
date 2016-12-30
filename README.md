@@ -1,6 +1,9 @@
 # understood
 accept-language parsing plugin for hapi
 
+[![Build Status](https://secure.travis-ci.org/geek/understood.svg)](http://travis-ci.org/geek/understood)
+
+
 ## options
 
 - `locales`: array of available locales that are supported
