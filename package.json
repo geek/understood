@@ -1,6 +1,6 @@
 {
   "name": "understood",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "accept-language plugin for hapi",
   "main": "lib/index.js",
   "scripts": {
@@ -12,7 +12,11 @@
     "type": "git",
     "url": "git+https://github.com/geek/understood.git"
   },
-  "keywords": ["hapi", "plugin", "language"],
+  "keywords": [
+    "hapi",
+    "plugin",
+    "language"
+  ],
   "author": "Wyatt Preul",
   "license": "MPL-2",
   "bugs": {
